@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<Librarian_List xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <librarians>
+    <Librarian>
+      <username>Togo</username>
+      <password>2007</password>
+      <name>Ugur</name>
+      <email>sadikhli.ughur@gmail.com</email>
+    </Librarian>
+    <Librarian>
+      <username>Ugur</username>
+      <password>22</password>
+      <name>Mahmud</name>
+      <email>sadikhli.ughur@gmail.com</email>
+    </Librarian>
+    <Librarian>
+      <username>Anu</username>
+      <password>222</password>
+      <name>Aynure</name>
+      <email>andrewmart1545@gmail.com</email>
+    </Librarian>
+  </librarians>
+</Librarian_List>
